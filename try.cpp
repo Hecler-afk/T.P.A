@@ -4,7 +4,7 @@ using namespace std;
 int main(void)
 {
     float a, b, c;
-    char d;
+    char d; //gret
     int p = 0;
 
     if(p == 1);
